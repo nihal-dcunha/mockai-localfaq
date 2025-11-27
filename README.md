@@ -4,6 +4,19 @@ Turn your FAQs into a smart, AI-like assistant—completely offline! Ask questio
 
 ---
 
+## Table of Contents
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Example FAQ File](#example-faq-file-docsfaqmd)
+- [Installation](#installation)
+- [Usage](#usage)
+- [How It Works](#how-it-works)
+- [Fuzzy Matching Details](#fuzzy-matching-details)
+- [Notes](#notes)
+- [License](#license)
+
+---
+
 ## Features
 - Loads FAQ documents from the `docs/` folder (`.txt` or `.md`).  
 - Parses FAQ-style files into `{question: answer}` pairs.  
